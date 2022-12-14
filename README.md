@@ -1,4 +1,4 @@
-THIS IS FRONT END FOR simplelottery.fcc made with help of NEXTJS
+THIS IS FRONT END FOR simplelottery.fcc made with help of NEXTJS.
 This is also made following partrick collins video on fcc.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
